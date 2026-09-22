@@ -1,20 +1,17 @@
-<img src="./images/avatar.png" width="180" align="left">
-
-<h1>Hi, I'm Valeriy! 🐱</h1>
-
-<p>
-2nd year student • Beginner developer<br>
-Electronics • Programming • VRChat • Blender
-</p>
-
-<br clear="left">
-
-
 # ฅ^•ﻌ•^ฅ Hi! I'm Valeriy!
+
+<div align="left">
+  <img src="./images/avatar.png" width="180" align="left" style="margin-right: 20px;">
 
 🎀 **2nd year student • beginner developer • electronics student • meow~**
 
 > just a silly cat learning how computers work :3
+
+💻 Programming • 🔌 Electronics • 🎮 Unity
+🧊 Blender • 🥽 VRChat • 🐾 Cute things
+
+  <br clear="left">
+</div>
 
 ---
 
@@ -25,17 +22,17 @@ Electronics • Programming • VRChat • Blender
 💻 **Programming**
 🔌 **Electronics & radio engineering**
 
-I'm still a beginner at all of this, so most of my repositories are going to be little experiments, unfinished projects and things I'm learning from 💗
+I'm still a beginner at all of this, so most of my repositories are going to be little experiments, unfinished projects, and things I'm learning from. 💗
 
 ---
 
 ### 🔧 Things I want to make
 
-🐾 Arduino CNC plotter
-🥽 VRChat avatars
-⚡ Arduino / ESP32 projects
-🔌 Electronics experiments
-💻 Small programming projects
+🐾 **Arduino CNC plotter**
+🥽 **VRChat avatars**
+⚡ **Arduino / ESP32 projects**
+🔌 **Electronics experiments**
+💻 **Small programming projects**
 
 ---
 
@@ -60,8 +57,18 @@ Meowing      ████████████ 100%
 * 💻 Learning programming from the beginning
 * 🎮 Learning Unity
 * 🧊 Learning Blender
-* 🎀 cute things enjoyer
-* 🐾 professional meower
+* 🎀 Cute things enjoyer
+* 🐾 Professional meower
+
+---
+
+### 💗 Currently working on
+
+> 🔧 Learning how things work
+> 💻 Writing my first projects
+> 🎮 Creating things for VRChat
+> ⚡ Experimenting with electronics
+> 🐾 Becoming a better little developer
 
 ---
 
