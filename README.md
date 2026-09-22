@@ -1,7 +1,7 @@
 # ฅ^•ﻌ•^ฅ Hi! I'm Valeriy!
 
 <div align="left">
-  <img src="./images/avatar1.png" width="180" align="left" style="margin-right: 10px;">
+  <img src="./images/avatar2.png" width="180" align="left" style="margin-right: 10px;">
 
 🎀 **2nd year student • beginner developer • electronics student • meow~**
 
@@ -84,4 +84,4 @@ Meowing      ████████████ 100%
 ╰──────────────────────────────╯
 ```
 
-> 💗 `meow.exe` is running...
+> 💗 `meow.exe` is running...  i love vrc
