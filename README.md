@@ -33,7 +33,7 @@ I'm still a beginner at all of this, so most of my repositories are going to be 
 Programming  🌱🌱░░░░░░░░
 Unity        🌱🌱░░░░░░░░
 Blender      🌱🌱░░░░░░░░
-Electronics  🌱🌱🌱░░░░░░
+Electronics  🌱🌱░░░░░░░░
 
 Meowing      ████████████ 100%
 ```
