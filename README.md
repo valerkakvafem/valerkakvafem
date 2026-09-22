@@ -1,7 +1,8 @@
 # ฅ^•ﻌ•^ฅ Hi! I'm Valeriy!
 
 <div align="left">
-  <img src="./images/avatar.png" width="180" align="left" style="margin-right: 20px;">
+  <img src="./images/avatar1.png" width="180" align="left" style="margin-right: 10px;">
+  <img src="./images/avatar2.png" width="180" align="left" style="margin-right: 20px;">
 
 🎀 **2nd year student • beginner developer • electronics student • meow~**
 
@@ -12,6 +13,7 @@
 
   <br clear="left">
 </div>
+
 
 ---
 
