@@ -1,3 +1,15 @@
+<img src="./images/avatar.png" width="180" align="left">
+
+<h1>Hi, I'm Valeriy! 🐱</h1>
+
+<p>
+2nd year student • Beginner developer<br>
+Electronics • Programming • VRChat • Blender
+</p>
+
+<br clear="left">
+
+
 # ฅ^•ﻌ•^ฅ Hi! I'm Valeriy!
 
 🎀 **2nd year student • beginner developer • electronics student • meow~**
